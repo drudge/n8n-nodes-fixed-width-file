@@ -1,9 +1,10 @@
 {
   "name": "n8n-nodes-fixed-width-file",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "n8n node for parsing or generating fixed-width formatted files",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n-community-node-package",
+    "n8n-node-athon"
   ],
   "license": "MIT",
   "homepage": "https://github.com/drudge/n8n-nodes-fixed-width-file",
